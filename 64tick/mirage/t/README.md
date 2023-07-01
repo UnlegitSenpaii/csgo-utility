@@ -169,6 +169,20 @@
 </details>
 
 <details>
+  <summary><strong>Smoke Aps to Bench</strong></summary>
+  <br>
+  
+  Jump Throw
+
+  <div align="center">
+    <img src="img\smoke_aps_bench_pos.png" alt="Pos" width="33%"/>
+    <img src="img\smoke_aps_bench_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_aps_bench_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+<details>
   <summary><strong>Smoke Aps to Left Arch</strong></summary>
   <br>
   
