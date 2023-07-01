@@ -203,3 +203,17 @@
   </div>
   
 </details>
+
+<details>
+  <summary><strong>Smoke Top Mid to Cat</strong></summary>
+  <br>
+  
+  Normal Throw
+
+  <div align="center">
+    <img src="img\smoke_top_mid_cat_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_top_mid_cat_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_top_mid_cat_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
