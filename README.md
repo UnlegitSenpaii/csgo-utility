@@ -1,6 +1,11 @@
 # csgo-utility ~ CS:GO Smoke Lineups Repository
 
-This repository is a collection of smoke lineups for CS:GO. The lineups are organised based on tick rate, map, and side (T or CT).
+**This repository is a collection of smoke lineups for CS:GO. The lineups are organised based on tick rate, map, and side (T or CT).**
+
+This project aims to provide a comprehensive collection of smoke lineups for popular maps in Counter-Strike: Global Offensive (CS:GO). Inspired by professional players and strategies, these smoke lineups can give you a competitive edge in your gameplay. Whether you're a beginner looking to improve your skills or an experienced player seeking advanced tactics, this project has you covered.
+
+## Contribution
+[Read Here](CONTRIBUTING.md)
 
 ## Table of Contents
 
