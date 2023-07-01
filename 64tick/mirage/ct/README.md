@@ -27,6 +27,19 @@
 </details>
 
 <details>
+  <summary><strong>Flash CT to Jungle</strong></summary>
+  <br>
+  
+  Normal Throw
+
+  <div align="center">
+    <img src="img\flash_ct_jungle_angle.png" alt="Angle" width="45%"/>
+    <img src="img\flash_ct_jungle_result.png" alt="Result" width="45%"/>
+  </div>
+  
+</details>
+
+<details>
   <summary><strong>Smoke CT to Palace</strong></summary>
   <br>
   
