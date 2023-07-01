@@ -30,6 +30,6 @@ Improvements to the documentation are highly valuable. If you notice any errors 
 
 ### License
 
-Please note that by contributing to the smoke lineup collection, you agree to license your contributions under the same license as the project itself. Make sure to review the [LICENSE](LICENSE.md) file for more information.
+Please note that by contributing to the smoke lineup collection, you agree to license your contributions under the same license as the project itself. Make sure to review the [LICENSE](LICENSE) file for more information.
 
 We appreciate your contributions and thank you for your support in making the smoke lineup collection a valuable resource for the CS:GO community!
