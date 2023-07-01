@@ -47,10 +47,10 @@
   Crouch Walk Jump Throw
 
   <div align="center">
-    <img src="smoke_t_window_pos.png" alt="Position" width="25%"/>
-    <img src="smoke_t_window_start.png" alt="Start" width="25%"/>
-    <img src="smoke_t_window_throw.png" alt="Throw" width="25%"/>
-    <img src="smoke_t_window_result.png" alt="Result" width="25%"/>
+    <img src="smoke_t_window_pos.png" alt="Position" width="50%"/>
+    <img src="smoke_t_window_start.png" alt="Start" width="50%"/>
+    <img src="smoke_t_window_throw.png" alt="Throw" width="50%"/>
+    <img src="smoke_t_window_result.png" alt="Result" width="50%"/>
   </div>
   
 </details>
