@@ -66,3 +66,32 @@
   </div>
   
 </details>
+
+<details>
+  <summary><strong>Smoke BTrash to Aps</strong></summary>
+  <br>
+  
+  Normal Throw
+
+  <div align="center">
+    <img src="img\smoke_btrash_aps_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_btrash_aps_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_btrash_aps_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+<details>
+  <summary><strong>Smoke Car to Deep Aps</strong></summary>
+  <br>
+  
+  Running Jump Throw
+
+  <div align="center">
+    <img src="img\smoke_car_deep_aps_pos.png" alt="Position" width="45%"/>
+    <img src="img\smoke_car_deep_aps_angle.png" alt="Angle" width="45%"/>
+    <img src="img\smoke_car_deep_aps_throw.png" alt="Throw" width="45%"/>
+    <img src="img\smoke_car_deep_aps_result.png" alt="Result" width="45%"/>
+  </div>
+  
+</details>
