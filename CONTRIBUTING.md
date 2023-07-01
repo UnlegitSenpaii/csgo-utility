@@ -8,6 +8,8 @@ To contribute to the utility lineup collection, please follow these guidelines:
 
 1. Fork the repository and create a new branch for your contribution.
 2. Add your utility lineups to the appropriate map directory, ensuring that they follow the established format and naming conventions.
+- Set your CS:GO resolution to 1280x960 in windowed mode.
+- Optionally, crop out the window name in the screenshot.
 3. If you are fixing an issue or enhancing existing lineups, create a clear and descriptive pull request explaining the changes you have made.
 4. Test your contributions to ensure that the utility lineups work as intended.
 5. Submit your pull request for review.
