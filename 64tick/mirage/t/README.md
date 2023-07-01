@@ -67,3 +67,17 @@
   </div>
   
 </details>
+
+<details>
+  <summary><strong>Smoke Aps to Left Arch</strong></summary>
+  <br>
+  
+  Normal Throw
+
+  <div align="center">
+    <img src="smoke_aps_leftarch_pos.png" alt="Angle" width="300"/>
+    <img src="smoke_aps_leftarch_angle.png" alt="Angle" width="300"/>
+    <img src="smoke_aps_leftarch_result.png" alt="Result" width="300"/>
+  </div>
+  
+</details>
