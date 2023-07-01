@@ -69,6 +69,20 @@
 </details>
 
 <details>
+  <summary><strong>Smoke Tetris to Connector</strong></summary>
+  <br>
+  
+  Normal Throw
+
+  <div align="center">
+    <img src="smoke_tetris_con_pos.png" alt="Position" width="33%"/>
+    <img src="smoke_tetris_con_angle.png" alt="Angle" width="33%"/>
+    <img src="smoke_tetris_con_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+<details>
   <summary><strong>Smoke TSpawn to Window</strong></summary>
   <br>
   
