@@ -1,8 +1,8 @@
-# csgo-utility ~ CS:GO Smoke Lineups Repository
+# csgo-utility ~ CS:GO Utility Lineup Repository
 
-**This repository is a collection of smoke lineups for CS:GO. The lineups are organised based on tick rate, map, and side (T or CT).**
+**This repository is a collection of utility lineups for CS:GO. The lineups are organised based on tick rate, map, and side (T or CT).**
 
-This project aims to provide a comprehensive collection of smoke lineups for popular maps in Counter-Strike: Global Offensive (CS:GO). Inspired by professional players and strategies, these smoke lineups can give you a competitive edge in your gameplay. Whether you're a beginner looking to improve your skills or an experienced player seeking advanced tactics, this project has you covered.
+This project aims to provide a comprehensive collection of utility lineups for popular maps in Counter-Strike: Global Offensive (CS:GO). Inspired by professional players and strategies, these utility lineups can give you a competitive edge in your gameplay. Whether you're a beginner looking to improve your skills or an experienced player seeking advanced tactics, this project has you covered.
 
 ## Contribution
 [Read Here](CONTRIBUTING.md)
@@ -42,41 +42,41 @@ This project aims to provide a comprehensive collection of smoke lineups for pop
 
 #### T
 
-Smoke lineups for the T side on Mirage in 64tick servers. [View Lineups](64tick/mirage/t)
+Utility lineups for the T side on Mirage in 64tick servers. [View Lineups](64tick/mirage/t)
 
 #### CT
 
-Smoke lineups for the CT side on Mirage in 64tick servers. [View Lineups](64tick/mirage/ct)
+Utility lineups for the CT side on Mirage in 64tick servers. [View Lineups](64tick/mirage/ct)
 
 ### Dust2
 
 #### T
 
-Smoke lineups for the T side on Dust2 in 64tick servers. [View Lineups](64tick/dust2/t)
+Utility lineups for the T side on Dust2 in 64tick servers. [View Lineups](64tick/dust2/t)
 
 #### CT
 
-Smoke lineups for the CT side on Dust2 in 64tick servers. [View Lineups](64tick/dust2/ct)
+Utility lineups for the CT side on Dust2 in 64tick servers. [View Lineups](64tick/dust2/ct)
 
 ### Cache
 
 #### T
 
-Smoke lineups for the T side on Cache in 64tick servers. [View Lineups](64tick/cache/t)
+Utility lineups for the T side on Cache in 64tick servers. [View Lineups](64tick/cache/t)
 
 #### CT
 
-Smoke lineups for the CT side on Cache in 64tick servers. [View Lineups](64tick/cache/ct)
+Utility lineups for the CT side on Cache in 64tick servers. [View Lineups](64tick/cache/ct)
 
 ### Inferno
 
 #### T
 
-Smoke lineups for the T side on Inferno in 64tick servers. [View Lineups](64tick/inferno/t)
+Utility lineups for the T side on Inferno in 64tick servers. [View Lineups](64tick/inferno/t)
 
 #### CT
 
-Smoke lineups for the CT side on Inferno in 64tick servers. [View Lineups](64tick/inferno/ct)
+Utility lineups for the CT side on Inferno in 64tick servers. [View Lineups](64tick/inferno/ct)
 
 ## 128tick
 
@@ -84,38 +84,38 @@ Smoke lineups for the CT side on Inferno in 64tick servers. [View Lineups](64tic
 
 #### T
 
-Smoke lineups for the T side on Mirage in 128tick servers. [View Lineups](128tick/mirage/t)
+Utility lineups for the T side on Mirage in 128tick servers. [View Lineups](128tick/mirage/t)
 
 #### CT
 
-Smoke lineups for the CT side on Mirage in 128tick servers. [View Lineups](128tick/mirage/ct)
+Utility lineups for the CT side on Mirage in 128tick servers. [View Lineups](128tick/mirage/ct)
 
 ### Dust2
 
 #### T
 
-Smoke lineups for the T side on Dust2 in 128tick servers. [View Lineups](128tick/dust2/t)
+Utility lineups for the T side on Dust2 in 128tick servers. [View Lineups](128tick/dust2/t)
 
 #### CT
 
-Smoke lineups for the CT side on Dust2 in 128tick servers. [View Lineups](128tick/dust2/ct)
+Utility lineups for the CT side on Dust2 in 128tick servers. [View Lineups](128tick/dust2/ct)
 
 ### Cache
 
 #### T
 
-Smoke lineups for the T side on Cache in 128tick servers. [View Lineups](128tick/cache/t)
+Utility lineups for the T side on Cache in 128tick servers. [View Lineups](128tick/cache/t)
 
 #### CT
 
-Smoke lineups for the CT side on Cache in 128tick servers. [View Lineups](128tick/cache/ct)
+Utility lineups for the CT side on Cache in 128tick servers. [View Lineups](128tick/cache/ct)
 
 ### Inferno
 
 #### T
 
-Smoke lineups for the T side on Inferno in 128tick servers. [View Lineups](128tick/inferno/t)
+Utility lineups for the T side on Inferno in 128tick servers. [View Lineups](128tick/inferno/t)
 
 #### CT
 
-Smoke lineups for the CT side on Inferno in 128tick servers. [View Lineups](128tick/inferno/ct)
+Utility lineups for the CT side on Inferno in 128tick servers. [View Lineups](128tick/inferno/ct)
