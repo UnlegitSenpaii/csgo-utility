@@ -5,9 +5,18 @@
   Normal Throw
 
   <div align="center">
-    <img src="smoke_ramp_stairs_pos.png" alt="Position" width="300"/>
-    <img src="smoke_ramp_stairs_angle.png" alt="Angle" width="300"/>
-    <img src="smoke_ramp_stairs_result.png" alt="Result" width="300"/>
+    <details>
+      <summary><img src="smoke_ramp_stairs_pos.png" alt="Position" width="300"/></summary>
+      <img src="smoke_ramp_stairs_pos.png" alt="Position" style="width: 100%" onclick="window.open(this.src)">
+    </details>
+    <details>
+      <summary><img src="smoke_ramp_stairs_angle.png" alt="Angle" width="300"/></summary>
+      <img src="smoke_ramp_stairs_angle.png" alt="Angle" style="width: 100%" onclick="window.open(this.src)">
+    </details>
+    <details>
+      <summary><img src="smoke_ramp_stairs_result.png" alt="Result" width="300"/></summary>
+      <img src="smoke_ramp_stairs_result.png" alt="Result" style="width: 100%" onclick="window.open(this.src)">
+    </details>
   </div>
   
 </details>
