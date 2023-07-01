@@ -54,3 +54,16 @@
   </div>
   
 </details>
+
+<details>
+  <summary><strong>Smoke Aps to Kitchen Window</strong></summary>
+  <br>
+  
+  Jump Throw
+
+  <div align="center">
+    <img src="smoke_aps_kitchenwindow_angle.png" alt="Angle" width="300"/>
+    <img src="smoke_aps_kitchenwindow_result.png" alt="Result" width="300"/>
+  </div>
+  
+</details>
