@@ -112,6 +112,21 @@
 </details>
 
 <details>
+  <summary><strong>Moly Palace to Dark</strong></summary>
+  <br>
+  
+  Running Throw
+
+  <div align="center">
+    <img src="img\moly_palace_dark_pos.png" alt="Position" width="45%"/>
+    <img src="img\moly_palace_dark_angle.png" alt="Angle" width="45%"/>
+    <img src="img\moly_palace_dark_throw.png" alt="Throw" width="45%"/>
+    <img src="img\moly_palace_dark_result.png" alt="Result" width="45%"/>
+  </div>
+  
+</details>
+
+<details>
   <summary><strong>Smoke TSpawn to Window</strong></summary>
   <br>
   
