@@ -1,0 +1,1 @@
+![error](smoke_ramp_stairs_angle.png)
