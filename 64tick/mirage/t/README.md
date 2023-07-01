@@ -27,6 +27,21 @@
 </details>
 
 <details>
+  <summary><strong>Flash Ramp to ASite</strong></summary>
+  <br>
+  
+  Normal Throw
+
+  <div align="center">
+    <img src="img\flash_ramp_asite_pos.png" alt="Position" width="33%"/>
+    <img src="img\flash_ramp_asite_angle.png" alt="Angle" width="33%"/>
+    <img src="img\flash_ramp_asite_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+
+<details>
   <summary><strong>Smoke Ramp to CT</strong></summary>
   <br>
   
