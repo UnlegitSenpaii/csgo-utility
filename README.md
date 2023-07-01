@@ -4,8 +4,6 @@ This repository is a collection of smoke lineups for CS:GO. The lineups are orga
 
 ## Table of Contents
 
-## Table of Contents
-
 - [64tick](#64tick)
   - [Mirage](#mirage)
     - [T](#t)
