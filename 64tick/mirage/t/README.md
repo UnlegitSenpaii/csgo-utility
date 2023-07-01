@@ -139,6 +139,14 @@
     <img src="img\smoke_t_window_result.png" alt="Result" width="45%"/>
   </div>
   
+  Walk Right + Jump Throw
+
+  <div align="center">
+    <img src="img\smoke_t_window_alt1_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_t_window_alt1_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_t_window_alt1_result.png" alt="Result" width="33%"/>
+  </div>
+
 </details>
 
 <details>
