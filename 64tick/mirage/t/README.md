@@ -5,9 +5,9 @@
   Normal Throw
 
   <div align="center">
-    <img src="smoke_ramp_stairs_pos.png" alt="Position" width="300"/>
-    <img src="smoke_ramp_stairs_angle.png" alt="Angle" width="300"/>
-    <img src="smoke_ramp_stairs_result.png" alt="Result" width="300"/>
+    <img src="smoke_ramp_stairs_pos.png" alt="Position" width="33%"/>
+    <img src="smoke_ramp_stairs_angle.png" alt="Angle" width="33%"/>
+    <img src="smoke_ramp_stairs_result.png" alt="Result" width="33%"/>
   </div>
   
 </details>
@@ -19,9 +19,9 @@
   Normal Throw
 
   <div align="center">
-    <img src="smoke_ramp_jungle_pos.png" alt="Position" width="300"/>
-    <img src="smoke_ramp_jungle_angle.png" alt="Angle" width="300"/>
-    <img src="smoke_ramp_jungle_result.png" alt="Result" width="300"/>
+    <img src="smoke_ramp_jungle_pos.png" alt="Position" width="33%"/>
+    <img src="smoke_ramp_jungle_angle.png" alt="Angle" width="33%"/>
+    <img src="smoke_ramp_jungle_result.png" alt="Result" width="33%"/>
   </div>
   
 </details>
@@ -33,9 +33,9 @@
   Jump Throw
 
   <div align="center">
-    <img src="smoke_ramp_ct_pos.png" alt="Position" width="300"/>
-    <img src="smoke_ramp_ct_angle.png" alt="Angle" width="300"/>
-    <img src="smoke_ramp_ct_result.png" alt="Result" width="300"/>
+    <img src="smoke_ramp_ct_pos.png" alt="Position" width="33%"/>
+    <img src="smoke_ramp_ct_angle.png" alt="Angle" width="33%"/>
+    <img src="smoke_ramp_ct_result.png" alt="Result" width="33%"/>
   </div>
   
 </details>
@@ -47,10 +47,10 @@
   Crouch Walk Jump Throw
 
   <div align="center">
-    <img src="smoke_t_window_pos.png" alt="Position" width="300"/>
-    <img src="smoke_t_window_start.png" alt="Start" width="300"/>
-    <img src="smoke_t_window_throw.png" alt="Throw" width="300"/>
-    <img src="smoke_t_window_result.png" alt="Result" width="300"/>
+    <img src="smoke_t_window_pos.png" alt="Position" width="25%"/>
+    <img src="smoke_t_window_start.png" alt="Start" width="25%"/>
+    <img src="smoke_t_window_throw.png" alt="Throw" width="25%"/>
+    <img src="smoke_t_window_result.png" alt="Result" width="25%"/>
   </div>
   
 </details>
@@ -62,8 +62,8 @@
   Jump Throw
 
   <div align="center">
-    <img src="smoke_aps_kitchenwindow_angle.png" alt="Angle" width="300"/>
-    <img src="smoke_aps_kitchenwindow_result.png" alt="Result" width="300"/>
+    <img src="smoke_aps_kitchenwindow_angle.png" alt="Angle" width="50%"/>
+    <img src="smoke_aps_kitchenwindow_result.png" alt="Result" width="50%"/>
   </div>
   
 </details>
@@ -75,9 +75,9 @@
   Normal Throw
 
   <div align="center">
-    <img src="smoke_aps_leftarch_pos.png" alt="Angle" width="300"/>
-    <img src="smoke_aps_leftarch_angle.png" alt="Angle" width="300"/>
-    <img src="smoke_aps_leftarch_result.png" alt="Result" width="300"/>
+    <img src="smoke_aps_leftarch_pos.png" alt="Angle" width="33%"/>
+    <img src="smoke_aps_leftarch_angle.png" alt="Angle" width="33%"/>
+    <img src="smoke_aps_leftarch_result.png" alt="Result" width="33%"/>
   </div>
   
 </details>
