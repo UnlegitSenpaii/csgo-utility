@@ -81,6 +81,20 @@
 </details>
 
 <details>
+  <summary><strong>Smoke 1Way Tetris to Dark</strong></summary>
+  <br>
+  
+  Normal Throw
+
+  <div align="center">
+    <img src="img\smoke_1w_tetris_dark_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_1w_tetris_dark_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_1w_tetris_dark_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+<details>
   <summary><strong>Smoke BTrash to Aps</strong></summary>
   <br>
   
