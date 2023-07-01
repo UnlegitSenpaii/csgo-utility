@@ -41,6 +41,20 @@
 </details>
 
 <details>
+  <summary><strong>Smoke TSpawn to CT</strong></summary>
+  <br>
+  
+  Jump Throw
+
+  <div align="center">
+    <img src="smoke_t_ct_pos.png" alt="Position" width="33%"/>
+    <img src="smoke_t_ct_angle.png" alt="Angle" width="33%"/>
+    <img src="smoke_t_ct_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+<details>
   <summary><strong>Smoke Tetris to CT</strong></summary>
   <br>
   
