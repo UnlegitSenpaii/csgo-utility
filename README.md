@@ -9,29 +9,10 @@ This project aims to provide a comprehensive collection of utility lineups for p
 
 ## Table of Contents
 
-- [64tick]()
-  - [Mirage]()
+- 64tick
+  - Mirage
     - [T](64tick/mirage/t/README.md)
     - [CT](64tick/mirage/ct/README.md)
-  - [Dust2]()
+  - Dust2
     - [T](64tick/dust2/t/README.md)
     - [CT](64tick/dust2/ct/README.md)
-  - [Cache]()
-    - [T](64tick/cache/t/README.md)
-    - [CT](64tick/cache/ct/README.md)
-  - [Inferno]()
-    - [T](64tick/inferno/t/README.md)
-    - [CT](64tick/inferno/ct/README.md)
-- [128tick]()
-  - [Mirage]()
-    - [T](128tick/mirage/t/README.md)
-    - [CT](128tick/mirage/ct/README.md)
-  - [Dust2]()
-    - [T](128tick/dust2/t/README.md)
-    - [CT](128tick/dust2/ct/README.md)
-  - [Cache]()
-    - [T](128tick/cache/t/README.md)
-    - [CT](128tick/cache/ct/README.md)
-  - [Inferno]()
-    - [T](128tick/inferno/t/README.md)
-    - [CT](128tick/inferno/ct/README.md)
