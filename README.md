@@ -94,7 +94,7 @@ Smoke lineups for the CT side on Mirage in 128tick servers. [View Lineups](128ti
 
 #### T
 
-Smoke lineups for the T side on Dust2 in 128tick servers. [View Lineups](https://www.csgonades.com/nades/dust2-smoke-xbox-from-t-spawn)
+Smoke lineups for the T side on Dust2 in 128tick servers. [View Lineups](128tick/dust2/t)
 
 #### CT
 
