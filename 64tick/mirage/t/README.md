@@ -155,6 +155,20 @@
 </details>
 
 <details>
+  <summary><strong>Smoke Aps to Kitchen Door</strong></summary>
+  <br>
+  
+  Jump Throw
+
+  <div align="center">
+    <img src="img\smoke_aps_kitchen_door_pos.png" alt="Pos" width="33%"/>
+    <img src="img\smoke_aps_kitchen_door_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_aps_kitchen_door_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+<details>
   <summary><strong>Smoke Aps to Left Arch</strong></summary>
   <br>
   
