@@ -41,6 +41,34 @@
 </details>
 
 <details>
+  <summary><strong>Smoke Tetris to CT</strong></summary>
+  <br>
+  
+  Normal Throw
+
+  <div align="center">
+    <img src="smoke_tetris_ct_pos.png" alt="Position" width="33%"/>
+    <img src="smoke_tetris_ct_angle.png" alt="Angle" width="33%"/>
+    <img src="smoke_tetris_ct_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+<details>
+  <summary><strong>Smoke Tetris to Jungle</strong></summary>
+  <br>
+  
+  Normal Throw
+
+  <div align="center">
+    <img src="smoke_tetris_jungle_pos.png" alt="Position" width="33%"/>
+    <img src="smoke_tetris_jungle_angle.png" alt="Angle" width="33%"/>
+    <img src="smoke_tetris_jungle_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+<details>
   <summary><strong>Smoke TSpawn to Window</strong></summary>
   <br>
   
@@ -75,7 +103,7 @@
   Normal Throw
 
   <div align="center">
-    <img src="smoke_aps_leftarch_pos.png" alt="Angle" width="33%"/>
+    <img src="smoke_aps_leftarch_pos.png" alt="Position" width="33%"/>
     <img src="smoke_aps_leftarch_angle.png" alt="Angle" width="33%"/>
     <img src="smoke_aps_leftarch_result.png" alt="Result" width="33%"/>
   </div>
