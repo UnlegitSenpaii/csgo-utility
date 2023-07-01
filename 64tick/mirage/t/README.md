@@ -39,3 +39,18 @@
   </div>
   
 </details>
+
+<details>
+  <summary><strong>Smoke TSpawn to Window</strong></summary>
+  <br>
+  
+  Crouch Walk Jump Throw
+
+  <div align="center">
+    <img src="smoke_t_window_pos.png" alt="Position" width="300"/>
+    <img src="smoke_t_window_start.png" alt="Start" width="300"/>
+    <img src="smoke_t_window_throw.png" alt="Throw" width="300"/>
+    <img src="smoke_t_window_result.png" alt="Result" width="300"/>
+  </div>
+  
+</details>
