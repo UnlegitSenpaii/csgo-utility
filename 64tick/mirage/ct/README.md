@@ -2,7 +2,8 @@
   <summary><strong>Smoke 1Way Window</strong></summary>
   <br>
   
-  Normal Throw
+  Normal Throw  <br>
+  Precise lineup
 
   <div align="center">
     <img src="img\smoke_1w_window_pos.png" alt="Position" width="33%"/>
@@ -10,13 +11,32 @@
     <img src="img\smoke_1w_window_result.png" alt="Result" width="33%"/>
   </div>
   
+  Normal Throw <br>
+  Loose lineup
+
+  <div align="center">
+    <img src="img\smoke_1w_window_alt1_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_1w_window_alt1_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_1w_window_alt1_result.png" alt="Result" width="33%"/>
+  </div>
+
+  Crouching LMB+RMB <br>
+  Precise lineup
+
+  <div align="center">
+    <img src="img\smoke_1w_window_alt2_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_1w_window_alt2_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_1w_window_alt2_result.png" alt="Result" width="33%"/>
+  </div>
+
 </details>
 
 <details>
   <summary><strong>Moly 1Way Window</strong></summary>
   <br>
   
-  Normal Throw
+  Normal Throw  <br>
+  Precise lineup
 
   <div align="center">
     <img src="img\moly_1w_window_pos.png" alt="Position" width="33%"/>
@@ -30,7 +50,8 @@
   <summary><strong>Flash CT to Jungle</strong></summary>
   <br>
   
-  Normal Throw
+  Normal Throw  <br>
+  Loose lineup
 
   <div align="center">
     <img src="img\flash_ct_jungle_angle.png" alt="Angle" width="45%"/>
@@ -43,7 +64,8 @@
   <summary><strong>Smoke CT to Palace</strong></summary>
   <br>
   
-  Jump Throw
+  Jump Throw  <br>
+  Loose lineup
 
   <div align="center">
     <img src="img\smoke_ct_palace_angle.png" alt="Angle" width="45%"/>
@@ -56,7 +78,8 @@
   <summary><strong>Smoke Tetris to Ramp</strong></summary>
   <br>
   
-  Normal Throw
+  Normal Throw  <br>
+  Loose lineup
 
   <div align="center">
     <img src="img\smoke_tetris_ramp_pos.png" alt="Position" width="33%"/>
@@ -67,10 +90,26 @@
 </details>
 
 <details>
+  <summary><strong>Smoke 1Way Jungle</strong></summary>
+  <br>
+  
+  Crouch Throw  <br>
+  Precise lineup
+
+  <div align="center">
+    <img src="img\smoke_1w_jungle_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_1w_jungle_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_1w_jungle_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+<details>
   <summary><strong>Moly Tetris to Ramp</strong></summary>
   <br>
   
-  Jump Throw
+  Jump Throw  <br>
+  Precise lineup
 
   <div align="center">
     <img src="img\moly_tetris_ramp_pos.png" alt="Position" width="33%"/>
@@ -84,7 +123,8 @@
   <summary><strong>Smoke 1Way Tetris to Dark</strong></summary>
   <br>
   
-  Normal Throw
+  Normal Throw  <br>
+  Precise lineup
 
   <div align="center">
     <img src="img\smoke_1w_tetris_dark_pos.png" alt="Position" width="33%"/>
@@ -98,7 +138,8 @@
   <summary><strong>Smoke BTrash to Aps</strong></summary>
   <br>
   
-  Normal Throw
+  Normal Throw  <br>
+  Loose lineup
 
   <div align="center">
     <img src="img\smoke_btrash_aps_pos.png" alt="Position" width="33%"/>
@@ -112,7 +153,8 @@
   <summary><strong>Smoke Car to Deep Aps</strong></summary>
   <br>
   
-  Running Jump Throw
+  Running Jump Throw  <br>
+  Loose lineup
 
   <div align="center">
     <img src="img\smoke_car_deep_aps_pos.png" alt="Position" width="45%"/>
