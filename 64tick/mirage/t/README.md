@@ -40,7 +40,6 @@
   
 </details>
 
-
 <details>
   <summary><strong>Smoke Ramp to CT</strong></summary>
   <br>
@@ -51,6 +50,20 @@
     <img src="img\smoke_ramp_ct_pos.png" alt="Position" width="33%"/>
     <img src="img\smoke_ramp_ct_angle.png" alt="Angle" width="33%"/>
     <img src="img\smoke_ramp_ct_result.png" alt="Result" width="33%"/>
+  </div>
+  
+</details>
+
+<details>
+  <summary><strong>Smoke 1Way Ramp to CT</strong></summary>
+  <br>
+  
+  Normal Throw
+
+  <div align="center">
+    <img src="img\smoke_1w_ramp_ct_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_1w_ramp_ct_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_1w_ramp_ct_result.png" alt="Result" width="33%"/>
   </div>
   
 </details>
