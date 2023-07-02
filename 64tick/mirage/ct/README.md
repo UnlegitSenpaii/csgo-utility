@@ -338,3 +338,27 @@
   </div>
   
 </details>
+
+<details>
+  <summary><strong>Smoke 1Way Under to Aps</strong></summary>
+  <br>
+  
+  Right Click  <br>
+  Loose lineup
+
+  <div align="center">
+    <img src="img\smoke_1w_under_aps_angle.png" alt="Angle" width="45%"/>
+    <img src="img\smoke_1w_under_aps_result.png" alt="Result" width="45%"/>
+  </div>
+  
+  Normal Throw <br>
+  Loose lineup
+
+  <div align="center">
+    <img src="img\smoke_1w_under_aps_alt_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_1w_under_aps_alt_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_1w_under_aps_alt_result.png" alt="Result" width="33%"/>
+  </div>
+
+</details>
+

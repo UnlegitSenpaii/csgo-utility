@@ -249,6 +249,20 @@
 </details>
 
 <details>
+  <summary><strong>Smoke Aps to Short</strong></summary>
+  <br>
+  
+  Right Click  <br>
+  Loose lineup
+
+  <div align="center">
+    <img src="img\smoke_aps_short_funny_angle.png" alt="Angle" width="45%"/>
+    <img src="img\smoke_aps_short_funny_result.png" alt="Result" width="45%"/>
+  </div>
+  
+</details>
+
+<details>
   <summary><strong>Smoke 1Way Top Mid to Cat & Window</strong></summary>
   <br>
   
