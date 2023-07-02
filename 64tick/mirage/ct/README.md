@@ -29,6 +29,24 @@
     <img src="img\smoke_1w_window_alt2_result.png" alt="Result" width="33%"/>
   </div>
 
+  Crouching Lineup, Standing RMB <br>
+  Loose lineup
+
+  <div align="center">
+    <img src="img\smoke_1w_window_alt2_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_1w_window_alt3_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_1w_window_alt3_result.png" alt="Result" width="33%"/>
+  </div>
+
+  Normal Throw <br>
+  Loose lineup
+
+  <div align="center">
+    <img src="img\smoke_1w_window_alt2_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_1w_window_alt4_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_1w_window_alt4_result.png" alt="Result" width="33%"/>
+  </div>
+
 </details>
 
 <details>

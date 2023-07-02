@@ -234,16 +234,16 @@
 </details>
 
 <details>
-  <summary><strong>Smoke Top Mid to Cat</strong></summary>
+  <summary><strong>Smoke 1Way Top Mid to Cat & Window</strong></summary>
   <br>
   
   Normal Throw  <br>
   Loose lineup
 
   <div align="center">
-    <img src="img\smoke_top_mid_cat_pos.png" alt="Position" width="33%"/>
-    <img src="img\smoke_top_mid_cat_angle.png" alt="Angle" width="33%"/>
-    <img src="img\smoke_top_mid_cat_result.png" alt="Result" width="33%"/>
+    <img src="img\smoke_1w_topmid_cat_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_1w_topmid_cat_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_1w_topmid_cat_result.png" alt="Result" width="33%"/>
   </div>
   
 </details>
