@@ -288,6 +288,16 @@
     <img src="img\smoke_1w_car_aps_alt1_result.png" alt="Result" width="45%"/>
   </div>
 
+  Normal Throw  <br>
+  Precise lineup
+
+  <div align="center">
+    <img src="img\smoke_1w_car_aps_alt2_pos.png" alt="Position" width="33%"/>
+    <img src="img\smoke_1w_car_aps_alt2_angle.png" alt="Angle" width="33%"/>
+    <img src="img\smoke_1w_car_aps_alt2_result.png" alt="Result" width="33%"/>
+  </div>
+
+
 </details>
 
 <details>
